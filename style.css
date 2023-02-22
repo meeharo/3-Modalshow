@@ -69,6 +69,7 @@ body {
     color: #fff;
     font-size: 18px;
     padding: 6px;
+    cursor: pointer;
 }
 
 .modal__body {
@@ -98,6 +99,7 @@ body {
     font-size: 15px;
     padding: 10px 20px;
     border-radius: 6px;
+    cursor: pointer;
 }
 
 .disabled {
